@@ -1,0 +1,6 @@
+{
+	"appId": "com.nitralabs.demo",
+	"appName": "AtlasPro",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

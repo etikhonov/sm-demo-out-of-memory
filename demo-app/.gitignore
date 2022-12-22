@@ -1,0 +1,35 @@
+node_modules
+
+# Quasar core related directories
+.quasar
+dist
+
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+
+.firebase
+db_data/
+
+firebase-debug.log
+.nyc_output/
+coverage/
+instrumented
+
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+*.secret
+
+report/
+megalinter-reports/
